@@ -12,3 +12,11 @@ A sleek and responsive toggle button built using HTML, CSS, and JavaScript. Inst
 - 🌙 Ideal for any webpage or web app
 - ⚙️ Easy to integrate and customize
 
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/gauravchhetri100/mode-switch-button/tree/main
